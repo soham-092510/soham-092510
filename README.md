@@ -25,7 +25,7 @@ ML
 <a href="https://github.com/soham-092510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="soham-092510" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Soham Gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soham Gaikwad" height="30" width="40" /></a>
 <a href="https://instagram.com/soham_07_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham_07_10" height="30" width="40" /></a>
-<a href="https://leetcode.com/SohamG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SohamG" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Soham092510/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SohamG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
