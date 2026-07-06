@@ -16,7 +16,7 @@ ML
 
 - 📫 How to reach me **soham092510@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-five-tawny-6j46an0brc.vercel.app/](https://portfolio-five-tawny-6j46an0brc.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://portfolio-one-wine-33.vercel.app/](https://portfolio-one-wine-33.vercel.app/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1mkUI94cAKFE_EU87GZ47IUTZul89Yckb/view?usp=sharing](https://drive.google.com/file/d/1mkUI94cAKFE_EU87GZ47IUTZul89Yckb/view?usp=sharing)**
 
